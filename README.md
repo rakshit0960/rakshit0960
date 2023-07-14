@@ -1,7 +1,7 @@
 ## Hi there! 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=rakshit0960&show_icons=true&theme=radical" align="left" width="47%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshit0960&layout=compact" align="left" width="47%"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=rakshit0960&show_icons=true&theme=radical" align="left" width="47%" /> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshit0960&layout=compact" align="center" />
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
