@@ -17,7 +17,7 @@
  
  🌱 I’m currently learning **Docker, AWS**
 
-💬 Ask me about **Node.js, React, Typescript... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Node.js, React, Typescript... or anything [here](https://personal-portfolio-chi-flax.vercel.app/#ContactSection)**
 
  </h4>
 
