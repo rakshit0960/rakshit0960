@@ -1,9 +1,19 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rakshit0960.rakshit0960" />
+
+### Hi there 👋
+
+⏳ Year progress { ███████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 37.13 %
+
+---
+
+⏰ Updated on Fri, 16 May 2025 12:31:32 GMT
+
+![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
 <!--
 # Hi there! 👋
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rakshit0960.rakshit0960" />
+<img src="https://github-readme-stats.vercel.app/api?username=rakshit0960&show_icons=true&theme=radical" align="left" width="47%" />
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=rakshit0960&show_icons=true&theme=radical" align="left" width="47%" /> -->
 
 <!-- <h2 align="center">I am a passionate software developer from India </h2> -->
 <!-- <div align="center">
