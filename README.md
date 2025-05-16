@@ -1,42 +1,43 @@
+<!--
 # Hi there! 👋
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rakshit0960.rakshit0960" />
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=rakshit0960&show_icons=true&theme=radical" align="left" width="47%" /> -->
 
-<h2 align="center">I am a passionate software developer from India </h2>
+<!-- <h2 align="center">I am a passionate software developer from India </h2> -->
 <!-- <div align="center">
   <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshit0960&layout=donut" />
 </div> -->
 
-<br/>
+<!-- <br/> -->
 
-<div align="center">
- 
+<!-- <div align="center"> -->
+<!--
  🔭 I’m currently working on **a Blog Application**
- 
- 🌱 I’m currently learning **Docker, AWS**
 
-💬 Ask me about **Node.js, React, Typescript... or anything [here](https://personal-portfolio-chi-flax.vercel.app/#ContactSection)**
+ 🌱 I’m currently learning **Docker, AWS** -->
 
- </h4>
+<!-- 💬 Ask me about **Node.js, React, Typescript... or anything [here](https://personal-portfolio-chi-flax.vercel.app/#ContactSection)**
 
- <div align="center"> 
-  <a href="mailto:rakshit0960@gmail.com">
+ </h4> -->
+
+ <!-- <div align="center"> -->
+  <!-- <a href="mailto:rakshit0960@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/rakshit0960" target="_blank">
+  </a> -->
+  <!-- <a href="https://linkedin.com/in/rakshit0960" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://personal-portfolio-chi-flax.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+  </a> -->
+  <!-- <a href="https://personal-portfolio-chi-flax.vercel.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> sqlite, safari, google-chrome are other good icon options -->
+  <!-- </a>
 </h4>
 
-  <hr/>
- 
-<h2 align="center"> Languages-Frameworks-Tools </h2>
-<!-- 
+  <!-- <hr/> -->
+
+<!-- <h2 align="center"> Languages-Frameworks-Tools </h2> -->
+<!--
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -47,15 +48,15 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
   <img src="https://github-readme-stats-rakshit0960.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 -->
-<img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git" />
+<!-- <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git" />
 <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,c,c++mysql" /><be>
 
-<div align=center>
+<!-- <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app?user=rakshit0960&theme=dark&hide_border=true&border_radius=5.7&card_width=400" alt="streak stats"/>
 
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshit0960&theme=dark&hide_border=true&border_radius=5.7&layout=donut" />
 
-  <br/>
+  <br/> -->
 
 <!--
 **rakshit0960/rakshit0960** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
