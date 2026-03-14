@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rakshit0960.rakshit0960" />
+<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rakshit0960.rakshit0960" />
 
 ### Hi there 👋
 
@@ -8,7 +8,7 @@
 
 ⏰ Updated on Fri, 16 May 2025 12:31:32 GMT
 
-![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
+![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg) -->
 <!--
 # Hi there! 👋
 
